@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="50"
-   height="50"
+   width="55"
+   height="55"
    id="svg2"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="JAMediaExplorer.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="JAMedia.svg">
   <metadata
      id="metadata29">
     <rdf:RDF>
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-height="712"
      id="namedview27"
      showgrid="false"
      inkscape:zoom="6.2"
@@ -51,10 +51,7 @@
      id="defs4" />
   <g
      id="g3516"
-     transform="matrix(0.02425177,0,0,0.02425177,25.46838,24.436701)"
-     inkscape:export-filename="/home/flavio/Descargas/icono.png"
-     inkscape:export-xdpi="90"
-     inkscape:export-ydpi="90">
+     transform="matrix(0.02673123,0,0,0.02673123,27.925726,26.943325)">
     <text
        inkscape:export-ydpi="3.0869229"
        inkscape:export-xdpi="3.0869229"
